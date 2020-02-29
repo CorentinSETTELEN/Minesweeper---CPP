@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1517505893 source:f:\cours supinfo 2eme\_2cpp tar\nouveau dossier\demineur\class.cpp
+	"class.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1517505738 f:\cours supinfo 2eme\_2cpp tar\nouveau dossier\demineur\class.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1517326901 source:f:\cours supinfo 2eme\_2cpp tar\nouveau dossier\demineur\main.cpp
+	"class.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1517595067 source:f:\cours supinfo 2eme\_2cpp tahar\nouveau dossier\demineur\main.cpp
+	"class.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1517593544 f:\cours supinfo 2eme\_2cpp tahar\nouveau dossier\demineur\class.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1517594652 source:f:\cours supinfo 2eme\_2cpp tahar\nouveau dossier\demineur\class.cpp
+	"class.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
